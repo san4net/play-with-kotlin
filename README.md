@@ -21,6 +21,7 @@ https://sagaratechnology.medium.com/what-are-the-benefits-of-kotlin-d7fdcd1cfc0
 - Learning Curve: For a Java developer, getting started with Kotlin is very easy. The automated Java-to-Kotlin converter included in the Kotlin plugin helps with the first steps. Kotlin Koans can guide you through the key features of the language with a series of interactive exercise 
  - Spring boot support kotlin
  - Kotlin interoparable with java libraries
- - https://kotlinlang.org/docs/server-overview.html
+ - [https://kotlinlang.org/docs/server-overview.html]
+ - [Write Less Code with Kotlin and Spring Boot](https://www.youtube.com/watch?v=KqgGeKhIiyo)
  
  
