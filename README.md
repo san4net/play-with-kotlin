@@ -25,3 +25,6 @@ https://sagaratechnology.medium.com/what-are-the-benefits-of-kotlin-d7fdcd1cfc0
  - [Write Less Code with Kotlin and Spring Boot](https://www.youtube.com/watch?v=KqgGeKhIiyo)
  
  
+## kotlin comparison to java
+- [kotlin vs java](https://kotlinlang.org/docs/comparison-to-java.html)
+## Java to Kotlin Migration Guide
