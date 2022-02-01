@@ -29,4 +29,6 @@ https://sagaratechnology.medium.com/what-are-the-benefits-of-kotlin-d7fdcd1cfc0
 - [kotlin vs java](https://kotlinlang.org/docs/comparison-to-java.html)
 ## Java to Kotlin Migration Guide
 
+## Java - kotlin comparison
 
+![alt text](https://user-images.githubusercontent.com/5081987/151915479-80699f69-928b-465d-bf1f-cb128e33ae43.jpg)
