@@ -1,7 +1,10 @@
 # play-with-kotlin
 
 ## Why kotlin
-https://sagaratechnology.medium.com/what-are-the-benefits-of-kotlin-d7fdcd1cfc0
+- [benefit of kotlin](https://sagaratechnology.medium.com/what-are-the-benefits-of-kotlin-d7fdcd1cfc0)
+- [java vs kotlin winner](https://nix-united.com/blog/kotlin-vs-java-which-is-the-winner/)
+- [reason for kotlin](https://analyticsindiamag.com/5-reasons-why-developers-choose-kotlin-over-java/)
+- [why not kotlin ](https://medium.com/google-developer-experts/why-are-java-server-side-developers-not-adopting-kotlin-8eb53e06ee99)
 
 ## java vs kotlin
 
